@@ -1,0 +1,15 @@
+{
+	"name": "springdemo",
+	"build": {
+		"dockerfile": "Dockerfile",
+	},
+    "customizations": {
+		"vscode": {
+			"extensions": [
+                "oracle.oracle-java",
+                "vscjava.vscode-java-pack",
+                "vmware.vscode-boot-dev-pack"
+			]
+		}
+	}
+}
